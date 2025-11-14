@@ -1,0 +1,4 @@
+git init
+git add .
+git commit -m "feat: commit inicial com hello.py"
+git branch -M main
